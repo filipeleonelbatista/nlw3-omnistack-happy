@@ -51,6 +51,7 @@ No link a seguir você encontra o guia no Notion referente aos desafios proposto
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
 ---
 
 <p align="center">  
